@@ -1,0 +1,26 @@
+----------------------------------------------------------------
+
+1. Pastas e arquivos gerados pelo Python
+
+----------------------------------------------------------------
+
+Ambientes virtuais
+
+.venv
+venv/
+env/
+
+Arquivos de cache e otimização
+
+pycache/
+*.pyc
+
+----------------------------------------------------------------
+
+2. Arquivos de Banco de Dados Local
+
+----------------------------------------------------------------
+
+O Render vai criar seu proprio DB. Nao envie o seu local.
+
+boletim.db
